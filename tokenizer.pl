@@ -54,12 +54,13 @@ if(!$output){
 
 #Call to function; argument - filename; output written to a file named filename.tok
 
-tokenizer($input);
+tokenizer($input,$output);
 
 ######################################################################
 
 sub tokenizer{
     my $file = $_[0];
+    my $output = $_[1];
     open my $F,"<:encoding(UTF-8)","$file" or die $!;
     open my $O,">:encoding(UTF-8)","$output" or die $!;
 
