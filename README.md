@@ -1,7 +1,6 @@
 # indic_tokenizer_perl
 
 ## Tokenizer for Indic Scripts in perl - Version 1.1
-## ramanirudh28@gmail.com
 ## Ver-1.1 - tested and uploaded on 21 December on Github
 ## Ver-1.0 is not uploaded on git
 
@@ -27,3 +26,4 @@ if --output option is missing
 
 Thank You
 Suggestions are Welcome
+ramanirudh28@gmail.com
