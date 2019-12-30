@@ -17,8 +17,10 @@ How to run
 
 $perl tokenizer.pl --input foo --output bar
 
-input is a required field
+input is a required field.
+
 output is optional - default extension: ".tok" to input file, 
+
 if --output option is missing 
 
 
