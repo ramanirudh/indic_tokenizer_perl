@@ -24,6 +24,6 @@ if --output option is missing
 
 ######################################################################
 
-Thank You
-Suggestions are Welcome
+Thank You.
+Suggestions are Welcome: 
 ramanirudh28@gmail.com
